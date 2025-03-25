@@ -55,7 +55,7 @@
 .header {
     background-image: url("../images/developer.png"), url('../images/header_bg.png');
     background-repeat: no-repeat;
-    height: 774px;
+    height: 577px;
     background-position: top left, bottom right;
 }
 
@@ -96,7 +96,7 @@ nav li a {
 }
 
 .banner-container {
-    max-width: 580px;
+    max-width: 400px;
 }
 
 .banner-grettings {
@@ -114,7 +114,8 @@ nav li a {
 }
 
 .banner-profile-pic {
-    width: 614px;
+    width: 450px;
+    height: 513px;
 }
 
 /* main tyles */
